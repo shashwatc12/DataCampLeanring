@@ -1,0 +1,27 @@
+
+Introduction to iterators
+
+Iterators vs Iterables
+
+Iterating over iterables (1)
+
+Iterating over iterables (2)
+
+Iterators as function arguments
+
+Playing with iterators
+
+Using enumerate
+
+Using zip
+
+Using * and zip to 'unzip'
+
+Using iterators to load large files into memory
+
+Processing large amounts of Twitter data
+
+Extracting information for large amounts of Twitter data
+
+
+

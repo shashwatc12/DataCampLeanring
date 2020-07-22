@@ -1,0 +1,36 @@
+
+Dive into Python
+
+
+Importing Python modules
+
+
+Correcting a broken import
+
+
+Creating variables
+
+
+Creating a float
+
+
+Creating strings
+
+
+Correcting string errors
+
+
+Valid variable names
+
+
+Fun with functions
+
+
+Load a DataFrame
+
+
+Correcting a function error
+
+
+Snooping for suspects
+

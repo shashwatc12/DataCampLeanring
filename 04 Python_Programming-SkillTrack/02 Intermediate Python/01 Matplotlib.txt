@@ -1,0 +1,38 @@
+Basic plots with Matplotlib
+50 XP
+Line plot (1)
+100 XP
+Line Plot (2): Interpretation
+50 XP
+Line plot (3)
+100 XP
+Scatter Plot (1)
+100 XP
+Scatter plot (2)
+100 XP
+Histogram
+50 XP
+Build a histogram (1)
+100 XP
+Build a histogram (2): bins
+100 XP
+Build a histogram (3): compare
+100 XP
+Choose the right plot (1)
+50 XP
+Choose the right plot (2)
+50 XP
+Customization
+50 XP
+Labels
+100 XP
+Ticks
+100 XP
+Sizes
+100 XP
+Colors
+100 XP
+Additional Customizations
+100 XP
+Interpretation
+50 XP

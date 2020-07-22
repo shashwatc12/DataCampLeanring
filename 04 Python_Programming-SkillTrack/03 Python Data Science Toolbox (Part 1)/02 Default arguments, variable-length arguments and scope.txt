@@ -1,0 +1,47 @@
+Scope and user-defined functions
+
+
+Pop quiz on understanding scope
+
+
+The keyword global
+
+
+Python's built-in scope
+
+
+Nested functions
+
+
+Nested Functions I
+
+
+Nested Functions II
+
+
+The keyword nonlocal and nested functions
+
+
+Default and flexible arguments
+
+
+Functions with one default argument
+
+
+Functions with multiple default arguments
+
+
+Functions with variable-length arguments (*args)
+
+
+Functions with variable-length keyword arguments (**kwargs)
+
+
+Bringing it all together
+
+
+Bringing it all together (1)
+
+
+Bringing it all together (2)
+

@@ -1,0 +1,33 @@
+
+What is pandas?
+
+
+Loading a DataFrame
+
+
+Inspecting a DataFrame
+
+
+Selecting columns
+
+
+Two methods for selecting columns
+
+
+Correcting column selection errors
+
+
+More column selection mistakes
+
+
+Selecting rows with logic
+
+
+Logical testing
+
+
+Selecting missing puppies
+
+
+Narrowing the list of suspects
+

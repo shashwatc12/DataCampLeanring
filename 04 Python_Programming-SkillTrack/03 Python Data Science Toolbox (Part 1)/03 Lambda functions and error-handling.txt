@@ -1,0 +1,47 @@
+Lambda functions
+
+
+Pop quiz on lambda functions
+
+
+Writing a lambda function you already know
+
+
+Map() and lambda functions
+
+
+Filter() and lambda functions
+
+
+Reduce() and lambda functions
+
+
+Introduction to error handling
+
+
+Pop quiz about errors
+
+
+Error handling with try-except
+
+
+Error handling by raising an error
+
+
+Bringing it all together
+
+
+Bringing it all together (1)
+
+
+Bringing it all together (2)
+
+
+Bringing it all together (3)
+
+
+Bringing it all together: testing your error handling skills
+
+
+Congratulations!
+

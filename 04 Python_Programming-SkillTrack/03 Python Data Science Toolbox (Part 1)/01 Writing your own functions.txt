@@ -1,0 +1,42 @@
+
+User-defined functions
+
+
+Strings in Python
+
+
+Recapping built-in functions
+
+
+Write a simple function
+
+
+Single-parameter functions
+
+
+Functions that return single values
+
+
+Multiple parameters and return values
+
+
+Functions with multiple parameters
+
+
+A brief introduction to tuples
+
+
+Functions that return multiple values
+
+
+Bringing it all together
+
+
+Bringing it all together (1)
+
+
+Bringing it all together (2)
+
+
+
+

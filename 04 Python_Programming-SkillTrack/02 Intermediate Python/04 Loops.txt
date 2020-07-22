@@ -1,0 +1,33 @@
+while loop
+
+while: warming up
+
+Basic while loop
+
+Add conditionals
+
+for loop
+
+Loop over a list
+
+Indexes and values (1)
+
+Indexes and values (2)
+
+Loop over list of lists
+
+Loop Data Structures Part 1
+
+Loop over dictionary
+
+Loop over Numpy array
+
+Loop Data Structures Part 2
+
+Loop over DataFrame (1)
+
+Loop over DataFrame (2)
+
+Add column (1)
+
+Add column (2)
