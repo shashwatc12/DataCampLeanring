@@ -3,8 +3,8 @@ I am createing this Repository for Code and certificates for course and case stu
 I will (hopefully) remember what I am looking for and based on the work I have done during the course, I will be able to go to a folder or file and find the reference quickly. 
 
 
-In Progress:
+#In Progress:
 Programmer Track- 58 hours content. Focuses on all major aspects of Python for Data processing(data science).  
 
-Finished:
+#Finished:
 Python Programming SKill Track- 4 hours content. A gental introduction to Python including, Matplotlib,Pandas,Lists,DictionaryFunctions etc.
