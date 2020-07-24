@@ -4,7 +4,7 @@ I will (hopefully) remember what I am looking for and based on the work I have d
 
 
 **In Progress**:
-Programmer Track- *58 hours interactive content*. Focuses on all major aspects of Python for Data processing(data science).  
+Python Programmer Career Track- *58 hours interactive content*. Focuses on all major aspects of Python for Data processing(data science).  
 
 **Finished**:
-Python Programming SKill Track- *4 hours interactive content*. A gental introduction to Python including, Matplotlib,Pandas,Lists,DictionaryFunctions etc.
+Python Programming Skill Track- *4 hours interactive content*. A gental introduction to Python including, Matplotlib,Pandas,Lists,DictionaryFunctions etc.
