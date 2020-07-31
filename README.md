@@ -4,12 +4,12 @@ I will (hopefully) remember what I am looking for and based on the work I have d
 
 ***Courses***
 
-**In Progress**:
-> Python Programmer Career Track- *58 hours interactive content*.
-  - Leanrning: Covers all major aspects of Python for Data processing(data science).  
+> **In Progress**:
+  > Python Programmer Career Track- *58 hours interactive content*.
+    - Leanrning: Covers all major aspects of Python for Data processing(data science).  
 
-**Finished**:
-> Python Programming Skill Track- *4 hours interactive content*.
- - Learning: A gental introduction to Python including, Matplotlib,Pandas,Lists,Dictionary,Functions etc.
+> **Finished**:
+  > Python Programming Skill Track- *4 hours interactive content*.
+  - Learning: A gental introduction to Python including, Matplotlib,Pandas,Lists,Dictionary,Functions etc.
  
 ***Projects***
