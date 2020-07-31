@@ -6,16 +6,14 @@ I will (hopefully) remember what I am looking for and based on the work I have d
 ## Courses
 
 * **In Progress**:
-  > Python Programmer Career Track- *58 hours interactive content*.
+  > [Python Programmer Career Track](https://github.com/shashwatc12/DataCampLearning/tree/master/02%20Python_Programmer-CareerTrack)- *58 hours interactive content*.
     - Leanrning: Covers all major aspects of Python for Data processing(data science).  
 
 * **Finished**:
-  > Python Programming Skill Track- *4 hours interactive content*.
+  > [Python Programming Skill Track](https://github.com/shashwatc12/DataCampLearning/tree/master/04%20Python_Programming-SkillTrack) - *4 hours interactive content*.
     - Learning: A gental introduction to Python including, Matplotlib,Pandas,Lists,Dictionary,Functions etc.
- 
 
 ## Projects
 
- **TV, Halftime Shows, and the Big Game**
+ [**TV, Halftime Shows, and the Big Game**](https://github.com/shashwatc12/DataCampLearning/tree/master/01%20Projects-DataCamp)
     - Load, clean, and explore Super Bowl data in the age of soaring ad costs and flashy halftime shows.
-   - [Gihub Project Link](https://github.com/shashwatc12/DataCampLearning/tree/master/01%20Projects-DataCamp)
