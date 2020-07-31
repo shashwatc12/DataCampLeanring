@@ -5,11 +5,11 @@ I will (hopefully) remember what I am looking for and based on the work I have d
 
 ## Courses
 
-* **In Progress**:
+* **In Progress**:  24%
   > [Python Programmer Career Track](https://github.com/shashwatc12/DataCampLearning/tree/master/02%20Python_Programmer-CareerTrack)- *58 hours interactive content*.
     - Leanrning: Covers all major aspects of Python for Data processing(data science).  
 
-* **Finished**:
+* **Completed**:
   > [Python Programming Skill Track](https://github.com/shashwatc12/DataCampLearning/tree/master/04%20Python_Programming-SkillTrack) - *4 hours interactive content*.
     - Learning: A gental introduction to Python including, Matplotlib,Pandas,Lists,Dictionary,Functions etc.
 
